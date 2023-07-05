@@ -32,7 +32,7 @@ SIMPLE CALCULATOR
 
 .. code:: python
 
-def add(x, y):
+    def add(x, y):
   """Adds two numbers."""
   return x + y
 
